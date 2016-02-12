@@ -1,9 +1,7 @@
-# Basic Project
+# Calculator Test Project
 
- Basic Java Maven Project Structure
+ Calculator Test Project 
 
- * QA
- * Java
- * Maven
+
 
  [Anna Antonyan](http://sqasolution.com)
